@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafimadani
 - 👀 I’m interested in data science, bigdata, AI, machine learning
 - 🌱 I’m currently learning at Universitas Indonesia
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m more active on gitlab, u can reach me at https://gitlab.cs.ui.ac.id/rafi.madani
 - 📫 How to reach me ...
 
 https://rafimadani.github.io/os231/
